@@ -1,0 +1,22 @@
+
+
+
+ Yes, I understand. **We should beautify both screens first**, not just fix validation.
+
+Send Codex this:
+
+> **UI/UX polish only — do not change functionality or backend logic.**
+>retsrat
+> Redesign and polish the **two customer screens shown in the screenshots**:
+>
+> 1. **Refund request page** — the first screenshot. Improve the typography, spacing, cards, step indicator, form fields, buttons, status/result section, colors, and overall visual hierarchy. Make it feel like a polished modern customer-support product, not raw HTML. and dont let the html feels like ai writings 
+>
+> 2. **Sign-in page** — the second screenshot. Improve the layout, typography, form styling, button, spacing, error states, and overall visual hierarchy while keeping the same functionality.
+>
+> Make both screens **fully responsive for mobile, tablet, and desktop**, with no horizontal scrolling or clipped content.
+>
+> Use a **soft professional color palette** with teal/mint accents, clean white cards, subtle borders/shadows, and good accessibility.
+>
+> Keep the existing functionality, authentication, refund logic, API calls, and security rules unchanged.
+>
+> **Do not move to other pages yet. Focus only on making these two screens polished and production-quality.**
